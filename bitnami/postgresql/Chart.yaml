@@ -23,7 +23,7 @@ keywords:
 maintainers:
   - name: Bitnami
     url: https://github.com/bitnami/charts
-name: postgresql
+name: nginx
 sources:
   - https://github.com/bitnami/containers/tree/main/bitnami/postgresql
   - https://www.postgresql.org/
