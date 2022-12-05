@@ -7,7 +7,6 @@ dependencies:
     repository: https://charts.bitnami.com/bitnami
     tags:
       - bitnami-common
-      - nely-test
     version: 2.x.x
 description: PostgreSQL (Postgres) is an open source object-relational database known for reliability and data integrity. ACID-compliant, it supports foreign keys, joins, views, triggers and stored procedures.
 engine: gotpl
@@ -23,7 +22,7 @@ keywords:
 maintainers:
   - name: Bitnami
     url: https://github.com/bitnami/charts
-name: nginx
+name: Bitnami
 sources:
   - https://github.com/bitnami/containers/tree/main/bitnami/postgresql
   - https://www.postgresql.org/
